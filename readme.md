@@ -22,7 +22,7 @@
 
 [<img align="left" alt="holisitc_developer | LinkedIn" width="30px" src="https://img.icons8.com/cute-clipart/50/000000/linkedin.png" />][linkedin]
 
-[<img  align="left" style="padding:0px 5px 0px 5px;" alt="holisitc_developer | LinkedIn" width="40px" src="https://img.icons8.com/clouds/100/000000/instagram-reel.png" />][instagram]
+[<img  align="left" style="position:relative;top:-20px; padding:0px 5px 0px 5px;" alt="holisitc_developer | LinkedIn" width="40px" src="https://img.icons8.com/clouds/100/000000/instagram-reel.png" />][instagram]
 
 [<img  align="left" style="padding:0px 5px 0px 5px;" alt="holisitc_developer | LinkedIn" width="40px" src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" />][facebook]
 
