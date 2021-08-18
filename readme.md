@@ -34,7 +34,7 @@
 [<code><img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" /></code>][github]
 [<img align="left" style="padding:0px 5px 0px 5px" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />][github]
 [<img align="left" style="padding:0px 5px 0px 5px" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />][github]
-[<img align="left" style="padding:0px 5px 0px 5px" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />][github]
+[<img align="left" style="padding:0px 5px 0px 5px" alt="mysql" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />][github]
 [<img align="left" style="position:relative;top:-10px;left:5px;padding:0px 5px 0px 5px;" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][github]
 [<img align="left" style="position:relative;top:-10px;left:5px;padding:0px 5px 0px 5px;" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
 [<img align="left" style="position:relative;top:-10px;left:5px;padding:0px 5px 0px 5px;" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
