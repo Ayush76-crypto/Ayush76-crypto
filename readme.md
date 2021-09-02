@@ -16,7 +16,7 @@
 
 ---
 
-### More about me:
+> ## More about me:
 
 <br />
 <p align="left">
@@ -27,7 +27,7 @@
 
 ---
 
-### Languages and Tools:
+> ## Languages and Tools:
 
 <br />
 
@@ -62,7 +62,7 @@
 
 ---
 
-### **GitHub Stats**
+> ## **GitHub Stats**
 
 <br />
 
