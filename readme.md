@@ -55,7 +55,7 @@
 [<img align="left" style="padding:0px 5px 0px 5px" alt="python" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />][github]
 [<img align="left" style="padding:0px 5px 0px 5px" alt="python" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />][github]
 [<img align="left" style="padding:0px 5px 0px 5px" alt="python" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" />][github]
-[<img align="left" style="padding:0px 5px 0px 5px" alt="python" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />][github]
+
 
 <br />
 <br />
