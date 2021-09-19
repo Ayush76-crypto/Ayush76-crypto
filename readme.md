@@ -4,9 +4,8 @@
 
 ## I'm a 2<sup><small>nd</small></sup> year CSE student of VIT-Vellore, Tech Enthusiast, Developer and a Graphic designer
 
-- 💻 I’m currently working on **App-Development**.
 - 🥇 I’m currently learning **Backend in Web-Dev**.
-- 👩‍💻 I’m want to become **Full-stack Web-Developer**.
+- 👩‍💻 I want to become **Full-stack Web-Developer**.
 - 💬 Feel free to collaborate with me on **Projects**.
 - 👨‍🎓 Pronouns: **He/Him**.
 - ⚡ **_Quick-Learner_**.
