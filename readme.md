@@ -1,4 +1,6 @@
-# Hey, I'm Ayush Verma 😉
+<h1 align="center">
+    Hey, I'm Ayush Verma 😉
+</h1>
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif">
 
@@ -10,10 +12,9 @@
 - 👨‍🎓 Pronouns: **He/Him**.
 - ⚡ **_Quick-Learner_**.
 
+
 ![>](https://komarev.com/ghpvc/?username=Ayush76-crypto&style=plastic&color=blueviolet) <sup>**~**</sup>
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Ayush76-crypto?label=Ayush76-crypto&style=social">
-
-
 
 ## More about me:
 
@@ -71,7 +72,6 @@
 <a href="https://github.com/Ayush76-crypto">
   <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush76-crypto&theme=dark&hide_langs_below=0" />
 </a>
-
 
 [github]: https://github.com/Ayush76-crypto
 [facebook]: https://www.facebook.com/profile.php?id=100070096233810
