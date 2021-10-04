@@ -1,4 +1,4 @@
-<h1 align="center"> Hey Fellow < Developer /> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1 align="center"> Hey Fellow < Developer /> 👋 </h1>
 <p align='center'>
 </p>
 
@@ -6,9 +6,10 @@
 
 ## I'm a 2<sup><small>nd</small></sup> year CSE student of VIT-Vellore, Tech Enthusiast, Developer and a Graphic designer
 
-- 🥇 I’m currently learning **Backend in Web-Dev**.
-- 👩‍💻 I want to become **Full-stack Web-Developer**.
-- 💬 Feel free to collaborate with me on **Projects**.
+- 🥇 I’m currently working on **Backend in Web-Dev**.
+- 👩‍💻 On the way to be a **Full-stack Web-Developer**.
+- 🎯 Developing my skills in **UI/UX**.
+- 💬 Ready to work on **Projects**.
 - 👨‍🎓 Pronouns: **He/Him**.
 - ⚡ **_Quick-Learner_**.
 
