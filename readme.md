@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif">
 
-## I'm a 2<sup><small>nd</small></sup> year CSE student of VIT-Vellore, Tech Enthusiast, Developer and a Graphic designer
+
 
 - 🥇 I’m currently working on **Backend in Web-Dev**.
 - 👩‍💻 On the way to be a **Full-stack Web-Developer**.
