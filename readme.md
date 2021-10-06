@@ -2,7 +2,7 @@
 <p align='center'>
 </p>
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif">
+<img align="right" alt="Coding" width="350" height="250" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif">
 
 
 
