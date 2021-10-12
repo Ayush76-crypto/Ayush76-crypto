@@ -8,7 +8,7 @@
 
 
 - 🥇 I’m currently working on **Backend in Web-Dev**.
-- 👩‍💻 On the way to be a **Full-stack Web-Developer**.
+- 🧑‍💻 On the way to be a **Full-stack Web-Developer**.
 - 🎯 Developing my skills in **UI/UX**.
 - 💬 Ready to work on **Projects**.
 - 👨‍🎓 Pronouns: **He/Him**.
