@@ -18,7 +18,7 @@
 ![>](https://komarev.com/ghpvc/?username=Ayush76-crypto&style=plastic&color=blueviolet) <sup>**~**</sup>
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Ayush76-crypto?label=Ayush76-crypto&style=social">
 
-## **😁 About me:**
+## **😁 About me**
 
 <p align="left">
 <a href="https://www.facebook.com/profile.php?id=100070096233810"  target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/4a90e2/facebook--v1.png" alt="khushboogoel01" height="55" width="55" /></a>
