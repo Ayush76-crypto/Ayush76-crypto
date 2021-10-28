@@ -3,7 +3,7 @@
 </p>
 
 [//]: <> (Just want to check.)
-<img align="center" alt="Coding" width="100%" height="300" src="https://jusmarktech.com/public/a/images/pages/web_development.gif">
+<img align="center" alt="Coding" width="100%" height="265" src="https://jusmarktech.com/public/a/images/pages/web_development.gif">
 
 <img align="right" alt="Coding" width="340" height="250" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif">
 
