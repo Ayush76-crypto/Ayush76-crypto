@@ -46,7 +46,6 @@
 ## 🪄 **Activity Graph**
 
 <!---[![Contribution Activity](https://activity-graph.herokuapp.com/graph?username=Ayush76-crypto&theme=react-dark)](https://github.com/Ayush76-crypto/github-readme-activity-graph) --->
-
 [![Contribution Activity](https://activity-graph.herokuapp.com/graph?username=Ayush76-crypto&theme=chartreuse-dark)](https://github.com/Ayush76-crypto/github-readme-activity-graph)
 
 
