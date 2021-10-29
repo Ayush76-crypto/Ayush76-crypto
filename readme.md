@@ -22,8 +22,8 @@
 
 <p align="left">
 <a href="https://www.facebook.com/profile.php?id=100070096233810"  target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/4a90e2/facebook--v1.png" alt="khushboogoel01" height="55" width="55" /></a>
-<a href="https://www.instagram.com/ayushverma941/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="_khushboo.goel" height="60" width="60" /></a>
-<a href="https://www.linkedin.com/in/ayush-verma-6b5986202" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="khushboo goel" height="60" width="" /></a>
+<a href="https://www.instagram.com/ayushverma941/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="" height="60" width="60" /></a>
+<a href="https://www.linkedin.com/in/ayush-verma-6b5986202" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="" height="60" width="" /></a>
 </p>
 
 
@@ -42,6 +42,11 @@
 <a href="https://github.com/Ayush76-crypto">
   <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush76-crypto&theme=chartreuse-dark&hide_langs_below=0" />
 </a>
+
+## 🪄 **Activity Graph**
+
+[![Contribution Activity](https://activity-graph.herokuapp.com/graph?username=Ayush76-crypto&theme=react-dark)](https://github.com/Ayush76-crypto/github-readme-activity-graph)
+
 
 [github]: https://github.com/Ayush76-crypto
 [facebook]: https://www.facebook.com/profile.php?id=100070096233810
