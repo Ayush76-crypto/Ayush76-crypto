@@ -43,11 +43,12 @@
   <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush76-crypto&theme=chartreuse-dark&hide_langs_below=0" />
 </a>
 
+<!---
 ## 🪄 **Activity Graph**
 
-<!---[![Contribution Activity](https://activity-graph.herokuapp.com/graph?username=Ayush76-crypto&theme=react-dark)](https://github.com/Ayush76-crypto/github-readme-activity-graph) --->
+[![Contribution Activity](https://activity-graph.herokuapp.com/graph?username=Ayush76-crypto&theme=react-dark)](https://github.com/Ayush76-crypto/github-readme-activity-graph) 
 [![Contribution Activity](https://activity-graph.herokuapp.com/graph?username=Ayush76-crypto&theme=chartreuse-dark)](https://github.com/Ayush76-crypto/github-readme-activity-graph)
-
+--->
 
 
 [github]: https://github.com/Ayush76-crypto
