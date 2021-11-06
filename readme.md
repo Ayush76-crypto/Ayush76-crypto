@@ -50,11 +50,6 @@
 [![Contribution Activity](https://activity-graph.herokuapp.com/graph?username=Ayush76-crypto&theme=chartreuse-dark)](https://github.com/Ayush76-crypto/github-readme-activity-graph)
 --->
 
-## 🪄 **Activity Graph**
-
-<!-- [![Contribution Activity](https://activity-graph.herokuapp.com/graph?username=Ayush76-crypto&theme=react-dark)](https://github.com/Ayush76-crypto/github-readme-activity-graph)  -->
-<!-- [![Contribution Activity](https://activity-graph.herokuapp.com/graph?username=Ayush76-crypto&theme=chartreuse-dark)](https://github.com/Ayush76-crypto/github-readme-activity-graph) -->
-
 [github]: https://github.com/Ayush76-crypto
 [facebook]: https://www.facebook.com/profile.php?id=100070096233810
 [instagram]: https://www.instagram.com/ayushverma941/
