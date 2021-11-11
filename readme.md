@@ -43,6 +43,21 @@
   <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush76-crypto&theme=chartreuse-dark&hide_langs_below=0" />
 </a>
 
+
+## 🪄 **GitHub Analytics**
+
+<a href="https://github.com/Ayush76-crypto">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayush76-crypto&show_icons=true&hide_border=false&title_color=7CF700&amp&icon_color=0081BE&amp&text_color=FEFEFE&amp&bg_color=000000"/>
+</a>
+<a href="https://github.com/Ayush76-crypto/github-readme-stats">
+  <img align="center" width="410px" height="200px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush76-crypto&layout=compact" />
+</a>
+
+
+<!--
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayush76-crypto&theme=dark)](https://git.io/streak-stats)
+--->
+
 <!---
 ## 🪄 **Activity Graph**
 
