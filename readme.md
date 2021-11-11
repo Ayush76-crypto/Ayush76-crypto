@@ -1,9 +1,6 @@
-<h1 align="center"> <img src = "https://media.giphy.com/media/yUgDvwPwbX2aHVtY0H/giphy.gif" width=80 height=80 /> Hey Fellow < Developer />  <img src="https://media.giphy.com/media/3ohhwCZmdLxbmwrQiI/giphy.gif" height=80 width="80"/> </h1>
+<h1 align="center">  Hey Fellow < Developer /> 👋 </h1>
 <p align='center'>
 </p>
-
-<!-- 👋
--->
 
 <img align="right" alt="Coding" width="340" height="250" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif">
 
