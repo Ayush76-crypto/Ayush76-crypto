@@ -45,9 +45,9 @@
   <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush76-crypto&theme=chartreuse-dark&hide_langs_below=0" />
 </a>
 
-
+<!-- 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayush76-crypto&theme=dark)](https://git.io/streak-stats)
--
+- -->
 
 <!-- -
 ## 🪄 **Activity Graph**
