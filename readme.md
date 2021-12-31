@@ -49,15 +49,15 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayush76-crypto&theme=dark)](https://git.io/streak-stats)
 - -->
 
-<!-- -
+-
 ## 🪄 **Activity Graph**
 
 [![Contribution Activity](https://activity-graph.herokuapp.com/graph?username=Ayush76-crypto&theme=react-dark)](https://github.com/Ayush76-crypto/github-readme-activity-graph) 
-- -->
+-
 
--
+<!-- -
 [![Contribution Activity](https://activity-graph.herokuapp.com/graph?username=Ayush76-crypto&theme=chartreuse-dark)](https://github.com/Ayush76-crypto/github-readme-activity-graph)
--
+- -->
 
 [github]: https://github.com/Ayush76-crypto
 [facebook]: https://www.facebook.com/profile.php?id=100070096233810
