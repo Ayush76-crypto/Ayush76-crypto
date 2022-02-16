@@ -9,10 +9,10 @@
 <br />
 
 
-- 🥇 I’m currently working on **Backend in Web-Dev**.
+- 🥇 I’m currently working on **Data Analysis**.
 - 🧑‍💻 On my way to be a **Full-stack Web-Developer**.
 - 🎯 Developing my skills in **UI/UX**.
-- 💬 Ready to work on **Projects**.
+- 💬 Looking for **Internships**.
 - 👨‍🎓 Pronouns: **He/Him**.
 - ⚡ **_Quick-Learner_**.
 
